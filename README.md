@@ -1,6 +1,7 @@
+#Intro
 Hi, welcome!
 
-I have a range of interests including:
+I have a range of interests including:  
 -sociology
 -philosophy
 -bioinformatics
